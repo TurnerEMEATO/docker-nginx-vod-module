@@ -72,6 +72,7 @@ HTML5 Players for testing.
 
 # TODO
 * DRM Example
+See - https://www.ezdrm.com/Documentation/EZDRM%20Nginx%20Module%20Integration%20v1.pdf 
 * Test with S3-compatible APIs (Digital Ocean Spaces)
 
 
